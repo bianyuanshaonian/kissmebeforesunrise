@@ -16,7 +16,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LO
+baseurl: /repository-name
 
 
 #
@@ -24,10 +24,10 @@ baseurl: /LO
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://i.postimg.cc/XNrr8cKX/logo.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://i.postimg.cc/Dw96vw2P/fa.png
 
 
 # 菜单中的按钮
@@ -45,7 +45,7 @@ navigation:
 paginate: 8
 
 # 文章简介的区分标记
-excerpt_separator: <!-- more -->
+excerpt_separator: <!--Read more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
